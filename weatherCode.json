@@ -1,0 +1,828 @@
+{
+	"100": {
+		"imageName": "100.svg",
+		"unknownCode1": "500.svg",
+		"unknownCode2": "100",
+		"tenki": "晴",
+		"tenki_en": "CLEAR"
+	},
+	"101": {
+		"imageName": "101.svg",
+		"unknownCode1": "501.svg",
+		"unknownCode2": "100",
+		"tenki": "晴時々曇",
+		"tenki_en": " PARTLY CLOUDY"
+	},
+	"102": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴一時雨",
+		"tenki_en": " CLEAR, OCCASIONAL SCATTERED SHOWERS"
+	},
+	"103": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴時々雨",
+		"tenki_en": " CLEAR, FREQUENT SCATTERED SHOWERS"
+	},
+	"104": {
+		"imageName": "104.svg",
+		"unknownCode1": "504.svg",
+		"unknownCode2": "400",
+		"tenki": "晴一時雪",
+		"tenki_en": " CLEAR, SNOW FLURRIES"
+	},
+	"105": {
+		"imageName": "104.svg",
+		"unknownCode1": "504.svg",
+		"unknownCode2": "400",
+		"tenki": "晴時々雪",
+		"tenki_en": " CLEAR, FREQUENT SNOW FLURRIES"
+	},
+	"106": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴一時雨か雪",
+		"tenki_en": " CLEAR, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"
+	},
+	"107": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴時々雨か雪",
+		"tenki_en": " CLEAR, FREQUENT SCATTERED SHOWERS OR SNOW FLURRIES"
+	},
+	"108": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴一時雨か雷雨",
+		"tenki_en": " CLEAR, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"
+	},
+	"110": {
+		"imageName": "110.svg",
+		"unknownCode1": "510.svg",
+		"unknownCode2": "100",
+		"tenki": "晴後時々曇",
+		"tenki_en": " CLEAR, PARTLY CLOUDY LATER"
+	},
+	"111": {
+		"imageName": "110.svg",
+		"unknownCode1": "510.svg",
+		"unknownCode2": "100",
+		"tenki": "晴後曇",
+		"tenki_en": " CLEAR, CLOUDY LATER"
+	},
+	"112": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴後一時雨",
+		"tenki_en": " CLEAR, OCCASIONAL SCATTERED SHOWERS LATER"
+	},
+	"113": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴後時々雨",
+		"tenki_en": " CLEAR, FREQUENT SCATTERED SHOWERS LATER"
+	},
+	"114": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴後雨",
+		"tenki_en": " CLEAR,RAIN LATER"
+	},
+	"115": {
+		"imageName": "115.svg",
+		"unknownCode1": "515.svg",
+		"unknownCode2": "400",
+		"tenki": "晴後一時雪",
+		"tenki_en": " CLEAR, OCCASIONAL SNOW FLURRIES LATER"
+	},
+	"116": {
+		"imageName": "115.svg",
+		"unknownCode1": "515.svg",
+		"unknownCode2": "400",
+		"tenki": "晴後時々雪",
+		"tenki_en": " CLEAR, FREQUENT SNOW FLURRIES LATER"
+	},
+	"117": {
+		"imageName": "115.svg",
+		"unknownCode1": "515.svg",
+		"unknownCode2": "400",
+		"tenki": "晴後雪",
+		"tenki_en": " CLEAR,SNOW LATER"
+	},
+	"118": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴後雨か雪",
+		"tenki_en": " CLEAR, RAIN OR SNOW LATER"
+	},
+	"119": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴後雨か雷雨",
+		"tenki_en": " CLEAR, RAIN AND/OR THUNDER LATER"
+	},
+	"120": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴朝夕一時雨",
+		"tenki_en": " OCCASIONAL SCATTERED SHOWERS IN THE MORNING AND EVENING, CLEAR DURING THE DAY"
+	},
+	"121": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴朝の内一時雨",
+		"tenki_en": " OCCASIONAL SCATTERED SHOWERS IN THE MORNING, CLEAR DURING THE DAY"
+	},
+	"122": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴夕方一時雨",
+		"tenki_en": " CLEAR, OCCASIONAL SCATTERED SHOWERS IN THE EVENING"
+	},
+	"123": {
+		"imageName": "100.svg",
+		"unknownCode1": "500.svg",
+		"unknownCode2": "100",
+		"tenki": "晴山沿い雷雨",
+		"tenki_en": " CLEAR IN THE PLAINS, RAIN AND THUNDER NEAR MOUTAINOUS AREAS"
+	},
+	"124": {
+		"imageName": "100.svg",
+		"unknownCode1": "500.svg",
+		"unknownCode2": "100",
+		"tenki": "晴山沿い雪",
+		"tenki_en": " CLEAR IN THE PLAINS, SNOW NEAR MOUTAINOUS AREAS"
+	},
+	"125": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴午後は雷雨",
+		"tenki_en": " CLEAR, RAIN AND THUNDER IN THE AFTERNOON"
+	},
+	"126": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴昼頃から雨",
+		"tenki_en": " CLEAR, RAIN IN THE AFTERNOON"
+	},
+	"127": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴夕方から雨",
+		"tenki_en": " CLEAR, RAIN IN THE EVENING"
+	},
+	"128": {
+		"imageName": "112.svg",
+		"unknownCode1": "512.svg",
+		"unknownCode2": "300",
+		"tenki": "晴夜は雨",
+		"tenki_en": " CLEAR, RAIN IN THE NIGHT"
+	},
+	"130": {
+		"imageName": "100.svg",
+		"unknownCode1": "500.svg",
+		"unknownCode2": "100",
+		"tenki": "朝の内霧後晴",
+		"tenki_en": " FOG IN THE MORNING, CLEAR LATER"
+	},
+	"131": {
+		"imageName": "100.svg",
+		"unknownCode1": "500.svg",
+		"unknownCode2": "100",
+		"tenki": "晴明け方霧",
+		"tenki_en": " FOG AROUND DAWN, CLEAR LATER"
+	},
+	"132": {
+		"imageName": "101.svg",
+		"unknownCode1": "501.svg",
+		"unknownCode2": "100",
+		"tenki": "晴朝夕曇",
+		"tenki_en": " CLOUDY IN THE MORNING AND EVENING, CLEAR DURING THE DAY"
+	},
+	"140": {
+		"imageName": "102.svg",
+		"unknownCode1": "502.svg",
+		"unknownCode2": "300",
+		"tenki": "晴時々雨で雷を伴う",
+		"tenki_en": " CLEAR, FREQUENT SCATTERED SHOWERS AND THUNDER"
+	},
+	"160": {
+		"imageName": "104.svg",
+		"unknownCode1": "504.svg",
+		"unknownCode2": "400",
+		"tenki": "晴一時雪か雨",
+		"tenki_en": " CLEAR, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"
+	},
+	"170": {
+		"imageName": "104.svg",
+		"unknownCode1": "504.svg",
+		"unknownCode2": "400",
+		"tenki": "晴時々雪か雨",
+		"tenki_en": " CLEAR, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"
+	},
+	"181": {
+		"imageName": "115.svg",
+		"unknownCode1": "515.svg",
+		"unknownCode2": "400",
+		"tenki": "晴後雪か雨",
+		"tenki_en": " CLEAR, SNOW OR RAIN LATER"
+	},
+	"200": {
+		"imageName": "200.svg",
+		"unknownCode1": "200.svg",
+		"unknownCode2": "200",
+		"tenki": "曇",
+		"tenki_en": " CLOUDY"
+	},
+	"201": {
+		"imageName": "201.svg",
+		"unknownCode1": "601.svg",
+		"unknownCode2": "200",
+		"tenki": "曇時々晴",
+		"tenki_en": " MOSTLY CLOUDY"
+	},
+	"202": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇一時雨",
+		"tenki_en": " CLOUDY, OCCASIONAL SCATTERED SHOWERS"
+	},
+	"203": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇時々雨",
+		"tenki_en": " CLOUDY, FREQUENT SCATTERED SHOWERS"
+	},
+	"204": {
+		"imageName": "204.svg",
+		"unknownCode1": "204.svg",
+		"unknownCode2": "400",
+		"tenki": "曇一時雪",
+		"tenki_en": " CLOUDY, OCCASIONAL SNOW FLURRIES"
+	},
+	"205": {
+		"imageName": "204.svg",
+		"unknownCode1": "204.svg",
+		"unknownCode2": "400",
+		"tenki": "曇時々雪",
+		"tenki_en": " CLOUDY FREQUENT SNOW FLURRIES"
+	},
+	"206": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇一時雨か雪",
+		"tenki_en": " CLOUDY, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"
+	},
+	"207": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇時々雨か雪",
+		"tenki_en": " CLOUDY, FREQUENT SCCATERED SHOWERS OR SNOW FLURRIES"
+	},
+	"208": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇一時雨か雷雨",
+		"tenki_en": " CLOUDY, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"
+	},
+	"209": {
+		"imageName": "200.svg",
+		"unknownCode1": "200.svg",
+		"unknownCode2": "200",
+		"tenki": "霧",
+		"tenki_en": " FOG"
+	},
+	"210": {
+		"imageName": "210.svg",
+		"unknownCode1": "610.svg",
+		"unknownCode2": "200",
+		"tenki": "曇後時々晴",
+		"tenki_en": " CLOUDY, PARTLY CLOUDY LATER"
+	},
+	"211": {
+		"imageName": "210.svg",
+		"unknownCode1": "610.svg",
+		"unknownCode2": "200",
+		"tenki": "曇後晴",
+		"tenki_en": " CLOUDY, CLEAR LATER"
+	},
+	"212": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇後一時雨",
+		"tenki_en": " CLOUDY, OCCASIONAL SCATTERED SHOWERS LATER"
+	},
+	"213": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇後時々雨",
+		"tenki_en": " CLOUDY, FREQUENT SCATTERED SHOWERS LATER"
+	},
+	"214": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇後雨",
+		"tenki_en": " CLOUDY, RAIN LATER"
+	},
+	"215": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇後一時雪",
+		"tenki_en": " CLOUDY, SNOW FLURRIES LATER"
+	},
+	"216": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇後時々雪",
+		"tenki_en": " CLOUDY, FREQUENT SNOW FLURRIES LATER"
+	},
+	"217": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇後雪",
+		"tenki_en": " CLOUDY, SNOW LATER"
+	},
+	"218": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇後雨か雪",
+		"tenki_en": " CLOUDY, RAIN OR SNOW LATER"
+	},
+	"219": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇後雨か雷雨",
+		"tenki_en": " CLOUDY, RAIN AND/OR THUNDER LATER"
+	},
+	"220": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇朝夕一時雨",
+		"tenki_en": " OCCASIONAL SCCATERED SHOWERS IN THE MORNING AND EVENING, CLOUDY DURING THE DAY"
+	},
+	"221": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇朝の内一時雨",
+		"tenki_en": " CLOUDY OCCASIONAL SCCATERED SHOWERS IN THE MORNING"
+	},
+	"222": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇夕方一時雨",
+		"tenki_en": " CLOUDY, OCCASIONAL SCCATERED SHOWERS IN THE EVENING"
+	},
+	"223": {
+		"imageName": "201.svg",
+		"unknownCode1": "601.svg",
+		"unknownCode2": "200",
+		"tenki": "曇日中時々晴",
+		"tenki_en": " CLOUDY IN THE MORNING AND EVENING, PARTLY CLOUDY DURING THE DAY,"
+	},
+	"224": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇昼頃から雨",
+		"tenki_en": " CLOUDY, RAIN IN THE AFTERNOON"
+	},
+	"225": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇夕方から雨",
+		"tenki_en": " CLOUDY, RAIN IN THE EVENING"
+	},
+	"226": {
+		"imageName": "212.svg",
+		"unknownCode1": "212.svg",
+		"unknownCode2": "300",
+		"tenki": "曇夜は雨",
+		"tenki_en": " CLOUDY, RAIN IN THE NIGHT"
+	},
+	"228": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇昼頃から雪",
+		"tenki_en": " CLOUDY, SNOW IN THE AFTERNOON"
+	},
+	"229": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇夕方から雪",
+		"tenki_en": " CLOUDY, SNOW IN THE EVENING"
+	},
+	"230": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇夜は雪",
+		"tenki_en": " CLOUDY, SNOW IN THE NIGHT"
+	},
+	"231": {
+		"imageName": "200.svg",
+		"unknownCode1": "200.svg",
+		"unknownCode2": "200",
+		"tenki": "曇海上海岸は霧か霧雨",
+		"tenki_en": " CLOUDY, FOG OR DRIZZLING ON THE SEA AND NEAR SEASHORE"
+	},
+	"240": {
+		"imageName": "202.svg",
+		"unknownCode1": "202.svg",
+		"unknownCode2": "300",
+		"tenki": "曇時々雨で雷を伴う",
+		"tenki_en": " CLOUDY, FREQUENT SCCATERED SHOWERS AND THUNDER"
+	},
+	"250": {
+		"imageName": "204.svg",
+		"unknownCode1": "204.svg",
+		"unknownCode2": "400",
+		"tenki": "曇時々雪で雷を伴う",
+		"tenki_en": " CLOUDY, FREQUENT SNOW AND THUNDER"
+	},
+	"260": {
+		"imageName": "204.svg",
+		"unknownCode1": "204.svg",
+		"unknownCode2": "400",
+		"tenki": "曇一時雪か雨",
+		"tenki_en": " CLOUDY, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"
+	},
+	"270": {
+		"imageName": "204.svg",
+		"unknownCode1": "204.svg",
+		"unknownCode2": "400",
+		"tenki": "曇時々雪か雨",
+		"tenki_en": " CLOUDY, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"
+	},
+	"281": {
+		"imageName": "215.svg",
+		"unknownCode1": "215.svg",
+		"unknownCode2": "400",
+		"tenki": "曇後雪か雨",
+		"tenki_en": " CLOUDY, SNOW OR RAIN LATER"
+	},
+	"300": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "雨",
+		"tenki_en": " RAIN"
+	},
+	"301": {
+		"imageName": "301.svg",
+		"unknownCode1": "701.svg",
+		"unknownCode2": "300",
+		"tenki": "雨時々晴",
+		"tenki_en": " RAIN, PARTLY CLOUDY"
+	},
+	"302": {
+		"imageName": "302.svg",
+		"unknownCode1": "302.svg",
+		"unknownCode2": "300",
+		"tenki": "雨時々止む",
+		"tenki_en": " SHOWERS THROUGHOUT THE DAY"
+	},
+	"303": {
+		"imageName": "303.svg",
+		"unknownCode1": "303.svg",
+		"unknownCode2": "400",
+		"tenki": "雨時々雪",
+		"tenki_en": " RAIN,FREQUENT SNOW FLURRIES"
+	},
+	"304": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "雨か雪",
+		"tenki_en": " RAINORSNOW"
+	},
+	"306": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "大雨",
+		"tenki_en": " HEAVYRAIN"
+	},
+	"308": {
+		"imageName": "308.svg",
+		"unknownCode1": "308.svg",
+		"unknownCode2": "300",
+		"tenki": "雨で暴風を伴う",
+		"tenki_en": " RAINSTORM"
+	},
+	"309": {
+		"imageName": "303.svg",
+		"unknownCode1": "303.svg",
+		"unknownCode2": "400",
+		"tenki": "雨一時雪",
+		"tenki_en": " RAIN,OCCASIONAL SNOW"
+	},
+	"311": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "雨後晴",
+		"tenki_en": " RAIN,CLEAR LATER"
+	},
+	"313": {
+		"imageName": "313.svg",
+		"unknownCode1": "313.svg",
+		"unknownCode2": "300",
+		"tenki": "雨後曇",
+		"tenki_en": " RAIN,CLOUDY LATER"
+	},
+	"314": {
+		"imageName": "314.svg",
+		"unknownCode1": "314.svg",
+		"unknownCode2": "400",
+		"tenki": "雨後時々雪",
+		"tenki_en": " RAIN, FREQUENT SNOW FLURRIES LATER"
+	},
+	"315": {
+		"imageName": "314.svg",
+		"unknownCode1": "314.svg",
+		"unknownCode2": "400",
+		"tenki": "雨後雪",
+		"tenki_en": " RAIN,SNOW LATER"
+	},
+	"316": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "雨か雪後晴",
+		"tenki_en": " RAIN OR SNOW, CLEAR LATER"
+	},
+	"317": {
+		"imageName": "313.svg",
+		"unknownCode1": "313.svg",
+		"unknownCode2": "300",
+		"tenki": "雨か雪後曇",
+		"tenki_en": " RAIN OR SNOW, CLOUDY LATER"
+	},
+	"320": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "朝の内雨後晴",
+		"tenki_en": " RAIN IN THE MORNING, CLEAR LATER"
+	},
+	"321": {
+		"imageName": "313.svg",
+		"unknownCode1": "313.svg",
+		"unknownCode2": "300",
+		"tenki": "朝の内雨後曇",
+		"tenki_en": " RAIN IN THE MORNING, CLOUDY LATER"
+	},
+	"322": {
+		"imageName": "303.svg",
+		"unknownCode1": "303.svg",
+		"unknownCode2": "400",
+		"tenki": "雨朝晩一時雪",
+		"tenki_en": " OCCASIONAL SNOW IN THE MORNING AND EVENING, RAIN DURING THE DAY"
+	},
+	"323": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "雨昼頃から晴",
+		"tenki_en": " RAIN, CLEAR IN THE AFTERNOON"
+	},
+	"324": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "雨夕方から晴",
+		"tenki_en": " RAIN, CLEAR IN THE EVENING"
+	},
+	"325": {
+		"imageName": "311.svg",
+		"unknownCode1": "711.svg",
+		"unknownCode2": "300",
+		"tenki": "雨夜は晴",
+		"tenki_en": " RAIN, CLEAR IN THE NIGHT"
+	},
+	"326": {
+		"imageName": "314.svg",
+		"unknownCode1": "314.svg",
+		"unknownCode2": "400",
+		"tenki": "雨夕方から雪",
+		"tenki_en": " RAIN, SNOW IN THE EVENING"
+	},
+	"327": {
+		"imageName": "314.svg",
+		"unknownCode1": "314.svg",
+		"unknownCode2": "400",
+		"tenki": "雨夜は雪",
+		"tenki_en": " RAIN,SNOW IN THE NIGHT"
+	},
+	"328": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "雨一時強く降る",
+		"tenki_en": " RAIN, EXPECT OCCASIONAL HEAVY RAINFALL"
+	},
+	"329": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "雨一時みぞれ",
+		"tenki_en": " RAIN, OCCASIONAL SLEET"
+	},
+	"340": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪か雨",
+		"tenki_en": " SNOWORRAIN"
+	},
+	"350": {
+		"imageName": "300.svg",
+		"unknownCode1": "300.svg",
+		"unknownCode2": "300",
+		"tenki": "雨で雷を伴う",
+		"tenki_en": " RAIN AND THUNDER"
+	},
+	"361": {
+		"imageName": "411.svg",
+		"unknownCode1": "811.svg",
+		"unknownCode2": "400",
+		"tenki": "雪か雨後晴",
+		"tenki_en": " SNOW OR RAIN, CLEAR LATER"
+	},
+	"371": {
+		"imageName": "413.svg",
+		"unknownCode1": "413.svg",
+		"unknownCode2": "400",
+		"tenki": "雪か雨後曇",
+		"tenki_en": " SNOW OR RAIN, CLOUDY LATER"
+	},
+	"400": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪",
+		"tenki_en": " SNOW"
+	},
+	"401": {
+		"imageName": "401.svg",
+		"unknownCode1": "801.svg",
+		"unknownCode2": "400",
+		"tenki": "雪時々晴",
+		"tenki_en": " SNOW, FREQUENT CLEAR"
+	},
+	"402": {
+		"imageName": "402.svg",
+		"unknownCode1": "402.svg",
+		"unknownCode2": "400",
+		"tenki": "雪時々止む",
+		"tenki_en": " SNOWTHROUGHOUT THE DAY"
+	},
+	"403": {
+		"imageName": "403.svg",
+		"unknownCode1": "403.svg",
+		"unknownCode2": "400",
+		"tenki": "雪時々雨",
+		"tenki_en": " SNOW,FREQUENT SCCATERED SHOWERS"
+	},
+	"405": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "大雪",
+		"tenki_en": " HEAVYSNOW"
+	},
+	"406": {
+		"imageName": "406.svg",
+		"unknownCode1": "406.svg",
+		"unknownCode2": "400",
+		"tenki": "風雪強い",
+		"tenki_en": " SNOWSTORM"
+	},
+	"407": {
+		"imageName": "406.svg",
+		"unknownCode1": "406.svg",
+		"unknownCode2": "400",
+		"tenki": "暴風雪",
+		"tenki_en": " HEAVYSNOWSTORM"
+	},
+	"409": {
+		"imageName": "403.svg",
+		"unknownCode1": "403.svg",
+		"unknownCode2": "400",
+		"tenki": "雪一時雨",
+		"tenki_en": " SNOW, OCCASIONAL SCCATERED SHOWERS"
+	},
+	"411": {
+		"imageName": "411.svg",
+		"unknownCode1": "811.svg",
+		"unknownCode2": "400",
+		"tenki": "雪後晴",
+		"tenki_en": " SNOW,CLEAR LATER"
+	},
+	"413": {
+		"imageName": "413.svg",
+		"unknownCode1": "413.svg",
+		"unknownCode2": "400",
+		"tenki": "雪後曇",
+		"tenki_en": " SNOW,CLOUDY LATER"
+	},
+	"414": {
+		"imageName": "414.svg",
+		"unknownCode1": "414.svg",
+		"unknownCode2": "400",
+		"tenki": "雪後雨",
+		"tenki_en": " SNOW,RAIN LATER"
+	},
+	"420": {
+		"imageName": "411.svg",
+		"unknownCode1": "811.svg",
+		"unknownCode2": "400",
+		"tenki": "朝の内雪後晴",
+		"tenki_en": " SNOW IN THE MORNING, CLEAR LATER"
+	},
+	"421": {
+		"imageName": "413.svg",
+		"unknownCode1": "413.svg",
+		"unknownCode2": "400",
+		"tenki": "朝の内雪後曇",
+		"tenki_en": " SNOW IN THE MORNING, CLOUDY LATER"
+	},
+	"422": {
+		"imageName": "414.svg",
+		"unknownCode1": "414.svg",
+		"unknownCode2": "400",
+		"tenki": "雪昼頃から雨",
+		"tenki_en": " SNOW, RAIN IN THE AFTERNOON"
+	},
+	"423": {
+		"imageName": "414.svg",
+		"unknownCode1": "414.svg",
+		"unknownCode2": "400",
+		"tenki": "雪夕方から雨",
+		"tenki_en": " SNOW, RAIN IN THE EVENING"
+	},
+	"425": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪一時強く降る",
+		"tenki_en": " SNOW, EXPECT OCCASIONAL HEAVY SNOWFALL"
+	},
+	"426": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪後みぞれ",
+		"tenki_en": " SNOW, SLEET LATER"
+	},
+	"427": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪一時みぞれ",
+		"tenki_en": " SNOW, OCCASIONAL SLEET"
+	},
+	"450": {
+		"imageName": "400.svg",
+		"unknownCode1": "400.svg",
+		"unknownCode2": "400",
+		"tenki": "雪で雷を伴う",
+		"tenki_en": " SNOW AND THUNDER"
+	}
+}
