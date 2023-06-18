@@ -1,4 +1,5 @@
 # jma-analysis
+このリポジトリは、気象庁の非公式APIが解説されたときに、興味のある/使えそうなデータの場所をまとめたものである。
 
 ### 天気予報
 - https://www.jma.go.jp/bosai/forecast/data/overview_forecast/130000.json?__time__=202102240506
